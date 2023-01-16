@@ -1,0 +1,14 @@
+D:\kruno\L2API\L2API\L2API.Service\bin\Debug\net6.0\L2API.Service.deps.json
+D:\kruno\L2API\L2API\L2API.Service\bin\Debug\net6.0\L2API.Service.runtimeconfig.json
+D:\kruno\L2API\L2API\L2API.Service\bin\Debug\net6.0\L2API.Service.dll
+D:\kruno\L2API\L2API\L2API.Service\bin\Debug\net6.0\L2API.Service.pdb
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.csproj.AssemblyReference.cache
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.AssemblyInfoInputs.cache
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.AssemblyInfo.cs
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.csproj.CoreCompileInputs.cache
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.dll
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\refint\L2API.Service.dll
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.pdb
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\L2API.Service.genruntimeconfig.cache
+D:\kruno\L2API\L2API\L2API.Service\obj\Debug\net6.0\ref\L2API.Service.dll
